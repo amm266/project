@@ -1,0 +1,9 @@
+player 1:arrow keys/right shift
+player 2:wasd/q
+player 3:ijkl/u
+every tank have 5 bomb
+every bomb expier after 5 seconds
+power ups:
+violet: Unlimited bomb
+rainbow: 1 extra life
+enjoy!
